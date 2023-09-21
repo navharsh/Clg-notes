@@ -23,10 +23,10 @@ h3{
 }
 
 .container{
-    display:flex;
-    justify-content: space-between;
+    display: grid;
     gap:1rem;
     padding-top: 1rem;
+    justify-content: center;
 }
 
 .card{
@@ -48,3 +48,12 @@ font-family: 'Lobster', cursive;
     float:left;
     text-align: r;
 }
+
+@media screen and (min-width: 600px) {
+    .container {
+       display:flex;
+    justify-content: space-between;
+    gap:1rem;
+    padding-top: 1rem;
+    }
+  }
