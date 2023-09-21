@@ -49,6 +49,19 @@ font-family: 'Lobster', cursive;
     text-align: r;
 }
 
+
+  footer {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+footer a {
+    text-decoration: none;
+    color: #d9a7c7;
+}
+
 @media screen and (min-width: 600px) {
     .container {
        display:flex;
@@ -56,16 +69,10 @@ font-family: 'Lobster', cursive;
     gap:1rem;
     padding-top: 1rem;
     }
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+      }
   }
-  footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-}
-
-
-footer a {
-    text-decoration: none;
-    color: #d9a7c7;
-}
