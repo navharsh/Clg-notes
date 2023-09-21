@@ -56,14 +56,13 @@ font-family: 'Lobster', cursive;
     gap:1rem;
     padding-top: 1rem;
     }
-    footer {
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-        text-align: center;
-    }
   }
-
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
 
 
 footer a {
