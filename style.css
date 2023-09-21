@@ -16,12 +16,16 @@ background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, F
     
 }
 h1{
-text-align: center;background-color:#01172F;color: aliceblue;
+text-align: center;background-color:#01172F;color: white;
 }
 h3{
     text-align: center;    
 }
 
+.card{
+    float: left;
+    margin: 3px;
+}
 .subs{
     border: 2px solid black;
     border-radius:2px ;
