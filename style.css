@@ -27,8 +27,11 @@ h3{
     gap:1rem;
     padding-top: 1rem;
     justify-content: center;
+    
 }
-
+.nav {
+    height: 100vh;
+}
 .card{
     float: left;
 }
