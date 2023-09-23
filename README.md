@@ -12,7 +12,7 @@ Note Categories: Notes are organized into different subjects, making it easy for
 Search Functionality: Users can search for specific notes using keywords, helping them find relevant materials quickly.
 
 ## Demo
-You can access the live demo of the website [here](https://www.notes.navharsh.com).
+You can access the live demo of the website [here](https://notes.navharsh.com).
 
 
 ## License
