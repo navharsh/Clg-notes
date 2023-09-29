@@ -18,6 +18,10 @@ You can access the live demo of the website [here](https://notes.navharsh.com).
 ## License
 This project is licensed under the [MIT License](https://github.com/navharsh/Clg-notes/blob/main/LICENSE).
 
+## Disclaimer
+The notes on this website are not my own, and I have solely compiled them for reference purposes.
+
+
 
 
 
