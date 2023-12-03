@@ -30,7 +30,8 @@ h3{
     
 }
 .nav {
-    height: 100vh;
+    /* height: 100vh; */
+    padding: 50px;
 }
 .card{
     float: left;
